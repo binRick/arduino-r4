@@ -1,0 +1,9 @@
+# Arduino build output
+/build/
+*/build/
+*.hex
+*.bin
+*.elf
+
+# macOS
+.DS_Store
